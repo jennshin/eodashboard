@@ -7,7 +7,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "postinstall": "find ./node_modules/@turf/difference ../@turf/difference -name \"*.mjs\" | xargs -r0 rm"
+    "postinstall": "find ./node_modules/@turf/difference -name \"*.mjs\" | xargs -r0 rm"
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "^1.1.5",
