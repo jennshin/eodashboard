@@ -1,6 +1,5 @@
 # Earth Observing Dashboard
 
-<br>
 ### <div>
   <b-embed type="video" aspect="4by3" controls poster="poster.png">
     <source src="dev-stories.webm" type="video/webm">

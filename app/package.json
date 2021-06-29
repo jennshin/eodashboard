@@ -26,7 +26,7 @@
     "leaflet-mouse-position": "^1.2.0",
     "leaflet-side-by-side": "github:lubojr/leaflet-side-by-side#85dc573d0a27d2ffce91562fe27072c35d7e3e32",
     "luxon": "^1.24.1",
-    "marked": "^1.1.0",
+    "marked": "^2.0.0",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.14",
     "vue-browser-detect-plugin": "^0.1.13",
